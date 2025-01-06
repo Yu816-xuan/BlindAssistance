@@ -55,6 +55,8 @@ dependencies {
     // Firebase ML Kit 文字识别（OCR）
     implementation("com.google.mlkit:text-recognition:16.0.0")
 
+    implementation("com.google.android.gms:play-services-location:21.0.1")
+
     // 语音合成（TTS）等常用库
     implementation("androidx.core:core-ktx:1.10.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
